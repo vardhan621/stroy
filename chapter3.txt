@@ -1,0 +1,10 @@
+git init
+git status
+git add "file"
+git commit -m "comment"
+git log
+git diff chapter2.txt
+git checkout chapter2.txt(it will restore the previous file)
+git remote add <name> <url>(origin https://github.com/vardhan621/stroy.git)
+git branch -M main
+git push -u origin main
