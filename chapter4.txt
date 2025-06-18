@@ -1,0 +1,4 @@
+git branch "name";
+git branch (to check how many branches are there);
+git checkout "name"(to switch the branch);
+git merge "branch name"(it should be done in main branch);
